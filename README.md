@@ -4,7 +4,7 @@ Descrição do trabalho: https://goo.gl/rzkrQR<br />
 
 ## Autores
 João Victor Guimarães - 8936843<br />
-Pedro Felipe Coloma - 8936781<br />
+Pedro Felipe Celoma - 8936781<br />
 
 ## Informações Gerais
 ### Versões usadas
